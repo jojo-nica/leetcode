@@ -39,7 +39,9 @@ public class findminString {
         i++;
       }
     }
+    System.out.println("siuuuuuuuuu!");
     return 1;
+
   }
 
 
